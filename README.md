@@ -1,5 +1,6 @@
 --- Processing ... drawing project ---
-# Demo #
+
+# <b><em>Fast</em></b> Demo #
 ![drawing project in Processing](https://github.com/horjarobert/Drawing/blob/master/draw.gif)
 
 ***

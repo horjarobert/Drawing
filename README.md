@@ -1,6 +1,6 @@
 --- Processing ... drawing project ---
 # Demo #
-![drawing project in Processing](https://github.com/horjarobert/Processing_Projects/blob/master/drawing/draw.gif)
+![drawing project in Processing](https://github.com/horjarobert/Drawing/blob/master/draw.gif)
 
 ***
 # 1.Intro #
